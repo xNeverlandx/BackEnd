@@ -1,0 +1,7 @@
+com\example\test\TestApplication.class
+com\example\test\model\Person.class
+com\example\test\repository\PersonRepository.class
+com\example\test\services\PersonService.class
+com\example\test\SwaggerConfig.class
+com\example\test\controllers\PersonController.class
+com\example\test\model\enums\Gender.class
